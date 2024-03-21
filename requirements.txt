@@ -1,0 +1,7 @@
+langchain==0.1.13
+langchain_community==0.0.29
+openai==1.14.2
+Requests==2.31.0
+streamlit==1.32.2
+streamlit_chat==0.1.1
+streamlit_player==0.1.5
